@@ -1,0 +1,4 @@
+Este projeto visa prever a demanda de bebidas no bar Maré Alta com base na temperatura ambiente e no número de turistas.
+O modelo de regressão será treinado usando dados históricos de vendas, temperatura e turistas.
+O MLflow será utilizado para registrar e gerenciar o modelo.
+O pipeline de treinamento e teste garantirá a reprodutibilidade do projeto.
